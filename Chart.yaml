@@ -8,4 +8,4 @@ name: spark
 sources:
 - https://github.com/kubernetes/kubernetes/tree/master/examples/spark
 - https://github.com/apache/spark
-version: 0.1.4
+version: 0.2.0
