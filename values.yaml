@@ -37,8 +37,8 @@ Worker:
 
 Zeppelin:
   Name: zeppelin
-  Image: "gcr.io/google_containers/zeppelin"
-  ImageTag: "v0.5.5_v2"
+  Image: "xemuliam/zeppelin"
+  ImageTag: "0.7.2"
   Replicas: 1
   Component: "zeppelin"
   Cpu: "100m"
